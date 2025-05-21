@@ -21,13 +21,8 @@
     "react-router": "^7.6.0",
     "stream-chat": "^9.1.1",
     "stream-chat-react": "^13.0.1",
-    "zustand": "^5.0.4",
-    "daisyui": "^4.12.24",
-    "@vitejs/plugin-react": "^4.4.1",
-    "vite": "^6.3.5",
-    "postcss": "^8.5.3",
-    "autoprefixer": "^10.4.21",
-    "tailwindcss": "^3.4.17"
+    "zustand": "^5.0.4"
+   
     
   },
   "devDependencies": {
@@ -40,6 +35,12 @@
     "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-react-refresh": "^0.4.19",
     "globals": "^16.0.0"
+     "daisyui": "^4.12.24",
+    "@vitejs/plugin-react": "^4.4.1",
+    "vite": "^6.3.5",
+    "postcss": "^8.5.3",
+    "autoprefixer": "^10.4.21",
+    "tailwindcss": "^3.4.17"
     
   }
 }
