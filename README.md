@@ -24,8 +24,8 @@
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React / Next.js, Tailwind CSS, DaisyUI
-- **Backend:** Node.js / Express
+- **Frontend:** React, Tailwind CSS, DaisyUI
+- **Backend:** Node.js, Express
 - **Database:** MongoDB
 - **Real-Time Features:** getstream.io (chat, video)
 - **Deployment:** Render (Frontend+Backend)
